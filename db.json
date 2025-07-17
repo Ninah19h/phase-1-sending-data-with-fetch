@@ -1,30 +1,270 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "246f",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "b8b5",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "cc33",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "35bc",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "168d",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "e793",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "6a73",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "2648",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "8eed",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "ca5f",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "33d9",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "0c9a",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "f7f2",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "0fc9",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "ed75",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "ba8b",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "aee5",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "a20a",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "34ae",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "98cb",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "464d",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "193b",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "0140",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "064a",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "fc48",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "6b46",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "6473",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "507f",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "8248",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "c22e",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "5eee",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "27ef",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "73ce",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "d04c",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "ac7d",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "0d5c",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "be57",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "8823",
+      "name": "Ninah",
+      "email": "ninah@example.com"
+    },
+    {
+      "id": "a45a",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "0032",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "c7a4",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "cf22",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "0c5e",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "5bb9",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "0638",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "683a",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    },
+    {
+      "id": "d012",
+      "name": "Ninah",
+      "email": "hi@example.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
